@@ -1,0 +1,30 @@
+{
+  "name": "@thiss-dev/file-tree",
+  "version": "1.0.0",
+  "description": "Print file tree recursively.",
+  "main": "index.js",
+  "bin": {
+    "ftree": "index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ThisseasX/file-tree.git"
+  },
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "keywords": [
+    "node",
+    "fs"
+  ],
+  "author": "ThisseasX",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^8.45.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-config-prettier": "^8.8.0",
+    "eslint-plugin-import": "^2.27.5",
+    "nodemon": "^3.0.1"
+  }
+}
