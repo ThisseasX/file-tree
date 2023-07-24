@@ -1,5 +1,7 @@
 # file-tree
 
+![npm](https://img.shields.io/npm/v/@thiss-dev/file-tree)
+
 Print file tree recursively.
 
 NPM: [https://www.npmjs.com/package/@thiss-dev/file-tree](https://www.npmjs.com/package/@thiss-dev/file-tree).
